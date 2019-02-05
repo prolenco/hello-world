@@ -1,2 +1,2 @@
 # hello-world
-local stuff
+merged stuff 2
